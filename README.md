@@ -15,9 +15,8 @@ For the sake of using the list. Here are the list of my favourite glutens:
 
 Here is an image of Hungarian Goulash (for the sake of the points, but also because it's one of my favourite dishes)
 
-![Image of Hungarian Goulash]
-(https://www.daringgourmet.com/wp-content/uploads/2014/03/Chicken-Goulash-1-sm_edited.jpg)
+![Image of Hungarian Goulash](http://img.taste.com.au/JCSA2ji6/w720-h480-cfill-q80/taste/2016/11/goulash-soup-75934-1.jpeg)
 
 You might want to make it at home, so here is a recipe for it:
-https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/ - automatic!
-[Recipe] (https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/)
+https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/ 
+[Recipe](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/)
