@@ -29,7 +29,7 @@ https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/
 5. Then I selected 'README.md' and clicked 'Commit'.
 6. After making notes and checking the changes, I clicked 'Commit' and 'Push'.
 
-Reflections:
+## Reflections
 * It was a bit confusing at first as I have never used GitHub before, but after a while it started to make sense.
 * Markdown was also a bit of pain as some components did not work in R console (the bullet points didn't work) but it worked in GitHub, so at some point I wasn't sure whether the bullet points worked. The image also failed to show up at my initial attempt. A lot of online tutorials were available on Google and they were super helpful.
 * I was *this* close to giving up for the day. But I don't want to have any homework for the weekend, so I persisted. Hopefully this pain and blood is worth it.
