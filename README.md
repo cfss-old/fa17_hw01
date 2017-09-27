@@ -1,5 +1,11 @@
 #Yuchen Yang
 
+##Personal Background
+* I was born in **Hangzhou**, Zhejiang, China in 1994. In the past, I need to explain it's a city near Shanghai, but now, I like to say it's the hometown of Jack Ma and Alibaba. 
+* I'm a big fan of Japanese (pop) culture--I'm addicted to anime and Japanese TV drama. 
+* I also play the bass (mostly jazz, sometimes also C-pop and J-pop/rock) and practice Kendo (just passed the *Bogu* examination). 
+* I like reading detective novels, but I probably read more books published by University Presses.
+
 ##Education
 * I'm a 1st-year PhD student in the **Department of Sociology** at the University of Chicago. 
 * I graduated from UC Berkeley in the spring of 2017, with BA in sociology and Asian studies. 
