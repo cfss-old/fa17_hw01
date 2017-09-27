@@ -1,7 +1,7 @@
 # hw01
 Repository for homework 1
 
-#John-Henry Pezzuto
+# John-Henry Pezzuto
 
 I *really* like to play soccer.
 
