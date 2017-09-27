@@ -1,9 +1,7 @@
-# hw01
-Repository for homework 1
-
 # John-Henry Pezzuto
-
-I *really* like to play soccer.
+(hw #1)\
+Hi my name is John. I am a new MAPSS student at the University of Chicago. \
+I lived in New York, Hawaii, and Chicago. Also, I *really* like to play soccer.
 
 I also like to:
 
@@ -11,4 +9,5 @@ I also like to:
 * meet new people
  
  
- Add me on [facebook](https://www.facebook.com/johhenrysarus)
+ If you find me interesting, you can add me on [facebook](https://www.facebook.com/johhenrysarus)
+and we can chat sometime.
