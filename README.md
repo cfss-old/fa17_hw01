@@ -11,7 +11,7 @@
     3. really
     4. there's nothing more to my personality
 
-<h2> gosh golly, how excited are you for this class
+<h2> *gosh* **golly**, how excited are you for this class
   Actual quotes:
   <h3>
   > literally out of my mind excited
