@@ -1,0 +1,12 @@
+# hw01
+Repository for homework 1
+# Title: Biography of An Amateuer
+by *Lucas Wehrwein*
+Born under the frozen sun of the middle state of **Minnesota**, *Lucas Wehrwein* was never very good at much. Of the following things, Lucas was always just-so fine but never quite good:
+1. Dancing: (Swell *Flamenco* but never a **waltz**)
+2. Cooking: (An apple *pie*, sure, but never a cherry **tart**)
+3. Internecine conflict: (**Inciting strife** of course, but never changing the *tides*)
+4. And many *MORE*: (See my discontent at ["Innovative Inquiry"](knowthefacts.uchicago.edu) and [Dancing With The Entertainment Propaganda Stars](cnn.com)) 
+Jokes aside: I am a third year student in the Sociology PhD program, studying culture and economic sociology. My qualifying paper is on price transformations of antique violins across national contexts based upon owner lineage and prevailing standards of musical education. Other work is on the influence of population ecology and game theory on the theories of competition and cooperation in formal organizational analysis. Also working on a semantic/content analysis project (as third author, and hence this course) of earnings calls from Fortune 500 companies using the texts of calls linked to information about the compensation and tenure of executives and analysts.
+
+
