@@ -13,7 +13,7 @@ For the sake of using the list. Here are the list of my favourite carbohydrates:
 * Potato
 * Bread
 
-Here is an image of Hungarian Goulash (for the sake of the points, but also because it's one of my favourite dishes)
+Here is an image of Hungarian Goulash (for the sake of the points, but also because it's one of my favourite dishes):
 
 ![Image of Hungarian Goulash](http://img.taste.com.au/JCSA2ji6/w720-h480-cfill-q80/taste/2016/11/goulash-soup-75934-1.jpeg)
 
@@ -31,6 +31,6 @@ https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/
 
 ## Reflections
 * It was a bit confusing at first as I have never used GitHub before, but after a while it started to make sense.
-* Markdown was also a bit of pain as some components did not work in R console (the bullet points didn't work) but it worked in GitHub, so at some point I wasn't sure whether the bullet points worked. The image also failed to show up at my initial attempt. A lot of online tutorials were available on Google and they were super helpful.
+* Markdown was also a bit of pain as some components did not work in R console (the bullet points didn't work) but it worked in GitHub, so at some point I wasn't sure whether the bullet points worked. The image also failed to show up at my initial attempt. I realised that it's due to sharing restrictions on its original website so I chose another image from another website. Also, a lot of online tutorials were available on Google and they were super helpful.
 * I was *this* close to giving up for the day. But I don't want to have any homework for the weekend, so I persisted. Hopefully this pain and blood is worth it.
 * The bottom line is that it is super complicated but by practice (I hope) that it'll get easier or at least they'll make sense to me.
