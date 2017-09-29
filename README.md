@@ -10,7 +10,7 @@ Born under the frozen sun of the middle state of **Minnesota**, *Lucas Wehrwein*
 3. Internecine conflict 
   3.1. (Inciting strife of course, but never despondent destruction)
 4. And many *MORE* 
-See my discontent at [Link to ANTIUNION](knowthefacts.uchicago.edu) and [Propaganda](cnn.com)
+See my discontent at ["Innovative Inquiry"](knowthefacts.uchicago.edu) and [Entertainment-Grade Propaganda](cnn.com)
 
 
 
