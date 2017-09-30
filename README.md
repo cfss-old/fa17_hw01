@@ -1,7 +1,7 @@
 #  **Five interesting facts about Chong Yu**
 
 I am Chong Yu, a MAPSS student with a concentration in Psychology. I got my bachelor degree from Tsinghua University in China in July. I am going to share five interesting facts about me with you guys.
-![Chong Graduation](Chong.JPG)
+![Chong Graduation](https://github.com/chongyu71/myrepo/blob/master/Chong.JPG)
 
 ### 1. Life in Belgium
 In the fall of 2015, I had the change to go to [**KU Leuven**](https://www.kuleuven.be/english/) in Belgium for half a year. The life of an exchange student entailed the joy of independent living and learning. I also tried to learn a bit Dutch, but now I‘ve forgotten all about it.
