@@ -15,8 +15,8 @@
 
 ## *gosh* **golly**, how excited are you for this class
 
-* literally out of my mind excited
- * I'm screaming
+> literally out of my mind excited
+ > I'm screaming
   
 
 ## sources on getting this set up
