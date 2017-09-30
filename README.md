@@ -7,7 +7,7 @@
 # M.A. Program
 *Middle Eastern Studies*
 
-I am a second year in the Center for Middle Eastern Studies' M.A. program. I have done some [photo work](erikemueller.format.com) in the past, though my focus is in Political Science.
+I am a second year in the Center for Middle Eastern Studies' M.A. program. I have done some [photo work](https://erikemueller.format.com) in the past, though my focus is in Political Science.
 
 #I hope that by the end of this course that I am proficent in
 1. R
