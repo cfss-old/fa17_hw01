@@ -4,7 +4,7 @@
 ![Chong Graduation](D:\01UChicago\Autume_Computing for Social Sciences\Week1\Chong.JPG)
 
 ### 1. Life in Belgium
-<font size=4 color=DarkBlue>In the fall of 2015, I had the change to go to **KU Leuven** in Belgium for half a year. The life of an exchange student entailed the joy of independent living and learning. I also tried to learn a bit Dutch, but now I‘ve forgotten all about it.</font>
+<font size=4 color=DarkBlue>In the fall of 2015, I had the change to go to [**KU Leuven**](https://www.kuleuven.be/english/) in Belgium for half a year. The life of an exchange student entailed the joy of independent living and learning. I also tried to learn a bit Dutch, but now I‘ve forgotten all about it.</font>
 
 ### 2. 10-meter platform diving
 <font size=4 color=DarkBlue>I took a diving course during my last year in Tsinghua and sucessfully jumped from the **10-meter platform**. It's the most exciting experience that I have ever had.I don't know how could I come up with so much courage at that time...(*I am afraid of heights*)</font>
