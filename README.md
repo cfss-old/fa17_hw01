@@ -10,11 +10,16 @@ Repository for homework 1
   * I am 1/3 of a triplet! :scream:
   * I enjoy procrastibaking 
   * This will be the first time I try coding and I'm [nervous but hopeful](https://giphy.com/gifs/doctor-who-funny-matt-smith-WjAkQjz7h9ESA)
-  ### These are a few of my favorite things :note:
+  ### These are a few of my favorite things :multiple musical notes:
   * Favorite Animal
-    ![coelacanth](http://vertebrates.si.edu/fishes/coelacanth/SAIAB_Coelocanth_sml_680px.jpg)
+
+![coelacanth](http://vertebrates.si.edu/fishes/coelacanth/SAIAB_Coelocanth_sml_680px.jpg)
     * Favorite Thing to Bake
-    ![bourbon chocolate pecan pie](http://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18130512/051113053-02-bourbon-chocolate-pecan-pie-recipe-main.jpg)
+
+![bourbon chocolate pecan pie](http://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18130512/051113053-02-bourbon-chocolate-pecan-pie-recipe-main.jpg)
+
+#### For future reference:
+Use the website [https://emojipedia.org](https://emojipedia.org) to help find the proper code names for emojis. It provides different emoji names and ultimately helped me narrow down how to enter them into my code.
     
   
 
