@@ -9,9 +9,7 @@ I am _**Kai**_ from MAPSS program focusing on sociology. I finished my undergrad
 ### Research interests
 
 1. Social demography
-
 2. Family and marriage
-
 3. Social network
 
 ### More about myself
