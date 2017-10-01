@@ -19,4 +19,5 @@ Here is an image of Mahjong:
 If you are interest in Mahjong, you can learn more about it via this link:
 [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
 
-My facebook is [Zhaodi Chen's FB](https://www.facebook.com/profile.php?id=100009971982676), let's be friends!
+My facebook is [Zhaodi's FB](https://www.facebook.com/profile.php?id=100009971982676), let's be friends!
+
