@@ -19,5 +19,6 @@ My current research interest centers around :
 
 I enjoy drawing comics and watching films. 
 
+_Here is a picture of me on the Great Wall_: 
 
-![_Here is a picture of me on the Great Wall_:](/Users/hemouren/Desktop/hw01-master/hw01/2.JPG)
+![](https://github.com/lingnanhe/hw01/blob/master/2.JPG)
