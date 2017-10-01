@@ -22,3 +22,4 @@
 ## sources on getting this set up
 * https://guides.github.com/features/mastering-markdown/
 * http://cfss.uchicago.edu/hw00_homework_guidelines.html#homework_workflow
+* The wonderful assistance of Dr Ben Soltoff and Chelsea Ernhofer
