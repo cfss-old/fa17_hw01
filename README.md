@@ -6,6 +6,7 @@ Repository for homework 1
 * Have lived in Chicago for the past 3 years
 * I am currently part of the joint degree program here
   - This means I am both a fourth year undergrad and a MAPSS student
+* I am a history major, and my reserach interests involve pulic history and the 19th century U.S. South. 
 ### Fun Facts:
   * I am 1/3 of a triplet :scream:
   * I enjoy procrastibaking 
