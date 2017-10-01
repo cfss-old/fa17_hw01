@@ -22,7 +22,7 @@ _Few people know that I **hate eating carrots**_
 
 One of my addictions is playing Mahjong, which is a traditional game in China.
 Here is an image of my friends and I playing it:
-![Image of Mahjong](/Users/czd/Desktop/Mahjong.png)
+![Image of Mahjong](myrepo/Mahjong.png)
 
 If you are interest in Mahjong, you can learn more about it via this link:
 [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
