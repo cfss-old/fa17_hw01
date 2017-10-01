@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # hw01
 Repository for homework 1
@@ -9,7 +9,7 @@ Repository for homework 1
 # Homework 1 for CFSS-Ipek Cinar
 *This text will provide a brief biography of myself: *   
 
-![My photo](/Users/ipekcinar/Desktop/CFSS/HW01/ipekphoto.png)
+![alt text](https://github.com/ipekcinar/hw01/blob/master/ipekphoto.png)
 
    
 You can see a photo of myself above. I am currently pursuing a masters degree with a concentration in political science. My thesis focuses on democratic backsliding in Turkey and Poland. The following are the list of institutions I attended/currently attending.   
