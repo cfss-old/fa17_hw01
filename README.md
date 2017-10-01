@@ -12,9 +12,9 @@ Repository for homework 1
 ![My photo](/Users/ipekcinar/Desktop/CFSS/HW01/ipekphoto.png)
 
    
-You can see a photo of myself above. I am currently pursuing a masters degree with a concentration in political science. The following are the list of institutions I attended/currently attending.   
+You can see a photo of myself above. I am currently pursuing a masters degree with a concentration in political science. My thesis focuses on democratic backsliding in Turkey and Poland. The following are the list of institutions I attended/currently attending.   
     
 * Koc University in Istanbul/Turkey for Bacholers Degree       
 * University of Chicago in Chicago/USA for Masters Degree   
 
-You can find my linkedin profile at the following link: (https://www.linkedin.com/in/ipek-cinar-40074795/)
+Here is my linkedn profile [LinkedIn account](https://www.linkedin.com/in/ipek-cinar-40074795/)
