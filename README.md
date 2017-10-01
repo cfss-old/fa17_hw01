@@ -10,7 +10,7 @@ Repository for homework 1
   * I am 1/3 of a triplet! :scream:
   * I enjoy procrastibaking 
   * This will be the first time I try coding and I'm [nervous but hopeful](https://giphy.com/gifs/doctor-who-funny-matt-smith-WjAkQjz7h9ESA)
-  ### These are a few of my favorite things :quavers:
+  ### These are a few of my favorite things :musical note:
   #### Favorite Animal
 
 ![coelacanth](http://vertebrates.si.edu/fishes/coelacanth/SAIAB_Coelocanth_sml_680px.jpg)
