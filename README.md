@@ -13,8 +13,8 @@ I have called the following places _home_:
 _Few people know that I **hate eating carrots**_
 
 One of my addictions is playing Mahjong, which is a traditional game in China.
-Here is an image of Mahjong:
-![Image of Mahjong](https://www.google.com/search?q=Mahjong&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiipsv48M7WAhVF7yYKHU3nB8YQ_AUICigB&biw=1280&bih=546#imgrc=OnkV8DV0uoOhfM:)
+Here is an image of my friends and I playing it:
+![Image of Mahjong](/Users/czd/Desktop)
 
 If you are interest in Mahjong, you can learn more about it via this link:
 [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
