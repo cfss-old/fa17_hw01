@@ -10,7 +10,7 @@ Alex was born and raised in Baton Rouge, Louisiana. He completed his undergradua
 
 #### A few of his favorite things:
 * Riding his bike around Hyde Park (and beyond)
-* Thomas Pynchon's ficion, especially:
+* Thomas Pynchon's fiction, especially:
     + *Mason & Dixon*, and
     + *Inherent Vice* 
 * The musical stylings of [Holy Sons](https://www.youtube.com/watch?v=gP7zBrV5pgY) and [Mastodon](https://www.youtube.com/watch?v=HDjKC_DjsWo)
