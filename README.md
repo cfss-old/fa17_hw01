@@ -1,7 +1,7 @@
 # hw01
 Repository for homework 1
 
-#Hello to the world of R!
+# Hello to the world of R!
 
 I'm **Saniya**, an incoming MAPSS student at Uchicago.
 
@@ -12,8 +12,8 @@ At Uchicago, I plan to:
 * Using analytical computational skills
 
 I love going to the beach and taking such pictures:
-![Promontory Point](/images.beach.jng)
-
+![Promontory Point](/images.beach.jng) 
+(file:///Users/saniya/Desktop/beach.png)
 
 
 
