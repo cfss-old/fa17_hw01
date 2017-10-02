@@ -11,11 +11,8 @@ Email: <fushu@uchicago.edu>
 * Shu Fu . (Under review) "Impacts of Imperial College Student Opinion on Foreign Policy Making in the Song Dynasty." _Quarterly Journal of International Politics_.
 
 ### Profile
-<img src="/Users/ShuFu/Pictures/Images/profile/2017.7 @Russia_square.jpg" width="500">
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/14494614_1147621348665931_7111344545346630080_n.jpg?oh=023eba76a0838b83ca36aef51ccff8d6&oe=5A458CC9" width="500">
 
 
 ### Website links
-Here is my [Facebook page](https://www.facebook.com/jackson.fu.313).
-
-
-adding a line
+Here is my [Facebook page](https://www.facebook.com/jackson.fu.313).adding a line
