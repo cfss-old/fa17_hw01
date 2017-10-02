@@ -1,6 +1,7 @@
 # hw01
 Repository for homework 1
-+##brief biography of Hyunku
++
+## brief biography of Hyunku
 +
 +Hi! I am Hyunku Kwon, a first year _MAPSS_ student. I was born in **South Korea**. I graduated from Yonsei University, where I majored in Public Policy and Political Science, with a special focus on political philosophy in general, and political liberalism and its critics in particular. I was an exchange student at University of Wisconsin-Madison. For the last two years, I served my military duty in South Korea. 
 +
