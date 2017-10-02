@@ -9,4 +9,4 @@ My master specialization is in psychology, and I'm particularly interested in I/
 * During the summer, I was doing an internship at the Employee Assistance Program center at Chinese Academy of Science.
 Recently I'm reading a very interesting book about evolutionary psychology: https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
 
-
+I have followed all the instructions from the cfss website to finish this assignment. I think the most challenging part is to set up the connection between github and the R. It's very confusing when it comes to the Commit/Pull/Push commands. I asked TA for help and I hope the following use of R can be smooth.
