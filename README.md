@@ -21,5 +21,7 @@ Despite my previous personal and research experiences, my current research inter
 - Statistical Method
 
 
+# <font size=5>Process Report of the Homework</font>
 
+Please click the following link to see my Process Report of this homework.
 [Go to Process Report and Reflection](https://github.com/khan1792/hw01/blob/master/Process%20Report.md)
