@@ -8,4 +8,4 @@ Here's a list of few things I enjoy outside of school:
 5. Novels  
 Finally, here's a picture of my lovely princess cat, Leyla (it means **dark night** in Persian):  
 ![LeylatheCat](IMG_9315.jpg)
-I'm eager to learn many things all together with you this quarter. Good luck to everyone!
+I'm eager to learn many things all together with you this quarter. If you want to connect with me, feel free to add me on [Facebook.](https://www.facebook.com/miray.palaz.71) Good luck to everyone!
