@@ -6,4 +6,4 @@
 
 + My hoppy includes drawing, painting, jogging, workout, and above all, travel. Among the places I have had opporunity to visit, I would recommend anyone who enjoys nature landscape to travel to Gansu Province, China. The snow mountains and forest were truly magnificent.
 
-+ ![Me in Yosemite](https://github.com/DH1460/hw01/blob/master/Me in Yosemite.png?raw=true)
++ ![Me in Yosemite](https://github.com/DH1460/hw01/blob/master/Me%20in%20Yosomite.jpg?raw=true" alt="Me in Yosomite.jpg")
