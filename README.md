@@ -8,3 +8,4 @@
 
 + ![Me in Yosemite](Me in Yosemite.png "Me in Yosemite")
 
++ ![Me in Yosemite](Users/donghaiy/Desktop/Data Science Preparation /CFSS 2017 fall/hw01)
