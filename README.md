@@ -10,6 +10,5 @@ I've travelled quite a lot, and here is a sample of the cities I've lived in :
 * Lyon
 * Barcelona
 
-I don't have a blog or anything so if you're interested in contacting me please add me on [https://www.facebook.com/amine.sijilmassi][Facebook] !
-
+I don't have a blog or anything so if you're interested in contacting me please add me on [Facebook](https://www.facebook.com/amine.sijilmassi) !
 
