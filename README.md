@@ -1,5 +1,5 @@
 
-### Please allow me to introduce my self...
+### Please allow me to introduce myself...
 
 My name is Amine Sijilmassi, I am from **Morocco** and studied in **France** for several years. I am currently a student in MAPSS for academic year 2017-2018. 
 
