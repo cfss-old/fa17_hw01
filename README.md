@@ -16,4 +16,4 @@ A little bonus : I am a fan of Lyon, a city in France which is less known than P
 
 ![LyonFromFourvièreCathedral](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lyon_vue_depuis_fourviere.jpg/1280px-Lyon_vue_depuis_fourviere.jpg) 
 
-(Image credits : Patrick Giraud, Wikipedia Commons)
+(Image credits : Patrick Giraud, [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Lyon_vue_depuis_fourviere.jpg))
