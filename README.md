@@ -1,8 +1,8 @@
 # hw01
 Repository for homework 1
 
-# Hello everyone I'm **Jiaqi** 
-### MAPSS Class of 2018, **Psychology** Concentration
+# Hello everyone I'm *Jiaqi* 
+### MAPSS Class of 2018, *Psychology* Concentration
 I have just graduated from Northwestern University with a major in Psychology. Feel free to complain about Chicago weather with me if you are new here cuz I've been complaining about it for the last 4 years lol
 
 Fun Facts about me: 
