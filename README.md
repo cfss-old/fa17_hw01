@@ -1,13 +1,16 @@
-# hw01
-Repository for homework 1
+# Zeyang Yu's Self-introduction
 
-## Zeyang Yu's self introduction
+## Basic Information
+Hi, my name is *Zeyang Yu* (Arthur). I am a first year PhD student at Political Science department. I am interested in **political economy of development and institutions** and **political methodology**.
 
-Hi, my name is *Zeyang Yu* (Arthur). I am a first year PhD student at Political Science department. I am interested in **political economy of development and institutions** and **political methodology**. My favorite political economists are:
+## Favorite Political Economists
+I always follow my favorite political economists' research. My favorite political economists are:
 1. James Robinson
-2. Daron Acemoglu
-3. Alberto Alesina
-
+1. Daron Acemoglu
+1. Alberto Alesina
+1. Torsten Persson
+1. Ruixue Jia
+1. James Kung
 You can find James Robinson from his [personal website](http://scholar-harris.uchicago.edu/jamesrobinson/biocv).
 
 I this quarter, I am taking four courses: Analysis in Rn-1, Computing for Social Sciences, Empirical Analysis (Econometrics), and Game Theory.
