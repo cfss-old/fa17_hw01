@@ -16,7 +16,7 @@ I always follow my favorite political economists' research. My favorite politica
 
 You can find James Robinson from his [personal website](http://scholar-harris.uchicago.edu/jamesrobinson/biocv).
 
-![James Robinson](https://octodex.github.com/images/yaktocat.png)
+Here is James Robinson's photo: ![James Robinson](https://github.com/Arthur-Zeyang-Yu-UChicago/hw01/blob/master/james_robinson.jpg)
 
 ## Classes
 I this quarter, I am taking four courses: Analysis in Rn-1 (Real Analysis), Computing for Social Sciences, Empirical Analysis (PhD-level Econometrics), and Game Theory. The hardest course is Empirical Analysis, which is even 10 times harder than Real Analysis. I spend 70% of my time on studying Econometrics. However, I do think I've learned a lot from Econometrics class. And this one is so different from one I've taken before because it applies large sample theory.
@@ -28,3 +28,4 @@ I this quarter, I am taking four courses: Analysis in Rn-1 (Real Analysis), Comp
 
 ## Reflections
 1. The entire process is a bit confusing. But I spend some time on reading the course material and figure it out.
+2. I first don't know how to insert image in Markdown file. Because the guidance is not very detailed.
