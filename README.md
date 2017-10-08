@@ -1,6 +1,3 @@
----
-output: html_document
----
 # Zeyang Yu's Self-introduction
 
 ## Basic Information
