@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # Zeyang Yu's Self-introduction
 
 ## Basic Information
@@ -28,4 +31,5 @@ I this quarter, I am taking four courses: Analysis in Rn-1 (Real Analysis), Comp
 
 ## Reflections
 1. The entire process is a bit confusing. But I spend some time on reading the course material and figure it out.
-2. I first don't know how to insert image in Markdown file. Because the guidance is not very detailed.
+1. I first don't know how to insert image in Markdown file. Because the guidance is not very detailed.
+1. I'm also struggling on creating html file.
